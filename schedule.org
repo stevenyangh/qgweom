@@ -1,7 +1,8 @@
-#+STARTUP: inden
+#+STARTUP: indent
 this file contains information about senior four schedule.
-* class schedule
-** schedule by forms<2017-08-25 Fri>
+* school shit
+** class schedule
+*** schedule by forms<2017-08-28 一 +1d>
 |    |        时间 | 一  | 二  | 三  | 四  | 五  |
 |----+-------------+-----+-----+-----+-----+-----|
 |  1 |   8:00-8:40 | 英  | 生  | 物  | 语  | 物  |
@@ -9,6 +10,7 @@ this file contains information about senior four schedule.
 |  3 |  9:40-10:20 | 数  | 英  | 化  | 数  | 数  |
 |  4 | 10:30-11:10 | 数  | 英  | 化  | 数  | 数  |
 |  5 | 11:20-12:00 | 化  | 数  | 语  | 物  | 英  |
+|    |             |     |     |     |     |     |
 |----+-------------+-----+-----+-----+-----+-----|
 |    |             |     |     |     |     |     |
 |----+-------------+-----+-----+-----+-----+-----|
@@ -17,6 +19,20 @@ this file contains information about senior four schedule.
 |  8 | 15:10-15:50 | 语  | 物d | 英d | 化  | 语d |
 |  9 | 16:00-16:40 | 练  | 练  | 练  | 化  |     |
 | 10 |  16:50-5:30 | 习  | 习  | 习  | 班  |     |
- 
+*** schedule by TODOs
+**** 一
+**** 二
+**** 三
+**** 四
+**** 五
+** information
+*** telephone number<2017-08-25 五>
+| 1 | class teacher office/unknow  |    82827441 |
+| 2 | class teacher office /unknow |    82827387 |
+| 3 | edu offiece                  |    82827026 |
+| 4 | teacher offiece              |    82828496 |
+| 5 | class teacher call ph        | 13810757245 |
+| 6 | class teacher office         |   828277499 |
+|   |                              |             |
 * year schedule
  
