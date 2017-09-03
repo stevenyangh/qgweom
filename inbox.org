@@ -1,1 +1,2 @@
-#+
+#+STARTIP: indent
+this file is used as an inbox for all incoming tasks.
