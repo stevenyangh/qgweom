@@ -30,10 +30,13 @@ homework
 - State "DELAY"      from "START"      [2017-09-03 日 22:50] \\
   rest
 - State "START"      from "TODO"       [2017-09-03 日 20:42]
-***** TODO 背字词
+***** ABORT 背字词
+- State "ABORT"      from "TODO"       [2017-09-05 二 06:25] \\
+  over dued
 ***** TODO 课本第一单元
 **** 物
-***** UNRANKED 检测第二章
+***** ALL_DONE 检测第二章
+- State "ALL_DONE"   from "UNRANKED"   [2017-09-05 二 06:25]
 - State "UNRANKED"   from "DELAY"      [2017-09-04 一 19:20]
 - State "DELAY"      from "TODO"       [2017-09-04 一 06:40] \\
   on car
@@ -42,13 +45,18 @@ homework
 - State "DELAY"      from ""           [2017-09-03 日 22:16] \\
   just do it later
 **** 生
-***** TODO 五三:基因工程
+***** START 五三:基因工程
+- State "START"      from "TODO"       [2017-09-05 二 06:20]
 *** 4
 **** 语
 ***** TODO 五三P110文言文题/翻译
 **** 数
-***** TODO 两套卷子
+***** ALL_DONE 两套卷子
+- State "ALL_DONE"   from "START"      [2017-09-05 二 06:02]
+- State "START"      from "TODO"       [2017-09-05 二 05:05]
 **** 化
-***** TODO 卷子
+***** DELAY 卷子
+- State "DELAY"      from "TODO"       [2017-09-05 二 06:08] \\
+  later
 *** 5
 *** 6
