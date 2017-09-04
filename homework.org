@@ -1,0 +1,54 @@
+#+STARTUP:indent
+#+SEQ_TODO: TODO(t) START(s!) UNRANKED(r!) DELAY(d@/!) | ALL_DONE(a!) ABORT(f@/!)
+homework
+* 2017
+** 9
+*** 1-3
+**** 语
+***** ABORT 文言实词,虚词
+- State "ABORT"      from "TODO"       [2017-09-03 日 20:36] \\
+  fucking useless below my standard homework.
+**** 数 
+***** ALL_DONE 卷子
+- State "ALL_DONE"   from "UNRANKED"   [2017-09-04 一 19:20]
+- State "UNRANKED"   from "START"      [2017-09-04 一 05:29]
+- State "START"      from "DELAY"      [2017-09-04 一 04:59]
+- State "DELAY"      from "START"      [2017-09-03 日 23:57] \\
+  sleep to 3:30
+- State "START"      from "TODO"       [2017-09-03 日 23:40]
+***** ALL_DONE 练习册课时2
+- State "ALL_DONE"   from "UNRANKED"   [2017-09-04 一 19:20]
+- State "UNRANKED"   from "UNRANKED"   [2017-09-03 日 20:34]
+**** 英
+***** ALL_DONE 套卷
+- State "ALL_DONE"   from "UNRANKED"   [2017-09-04 一 19:20]
+- State "UNRANKED"   from "START"      [2017-09-04 一 04:57]
+- State "START"      from "DELAY"      [2017-09-04 一 03:52]
+- State "DELAY"      from "START"      [2017-09-03 日 23:40] \\
+  turn to math
+- State "START"      from "DELAY"      [2017-09-03 日 23:15]
+- State "DELAY"      from "START"      [2017-09-03 日 22:50] \\
+  rest
+- State "START"      from "TODO"       [2017-09-03 日 20:42]
+***** TODO 背字词
+***** TODO 课本第一单元
+**** 物
+***** UNRANKED 检测第二章
+- State "UNRANKED"   from "DELAY"      [2017-09-04 一 19:20]
+- State "DELAY"      from "TODO"       [2017-09-04 一 06:40] \\
+  on car
+**** 化
+***** DELAY 卷子
+- State "DELAY"      from ""           [2017-09-03 日 22:16] \\
+  just do it later
+**** 生
+***** TODO 五三:基因工程
+*** 4
+**** 语
+***** TODO 五三P110文言文题/翻译
+**** 数
+***** TODO 两套卷子
+**** 化
+***** TODO 卷子
+*** 5
+*** 6
