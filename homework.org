@@ -59,4 +59,11 @@ homework
 - State "DELAY"      from "TODO"       [2017-09-05 二 06:08] \\
   later
 *** 5
+
+**** 数
+***** TODO 练习册两章
+***** TODO 卷子
+**** 英
+***** ALL_DONE 阅读卷子
+- State "ALL_DONE"   from "TODO"       [2017-09-05 Tue 13:14]
 *** 6
